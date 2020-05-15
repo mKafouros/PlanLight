@@ -1,0 +1,12 @@
+{
+    "interval": 1.0,
+    "seed": 0,
+    "dir": "./",
+    "saveReplay": false,
+    "roadnetFile": "dataset/colight/Jinan/3_4/roadnet_3_4.json",
+    "flowFile": "dataset/colight/Jinan/3_4/anon_3_4_jinan_real.json",
+    "rlTrafficLight": true,
+    "laneChange": false,
+    "roadnetLogFile": "replay/testcase_roadnet_1x1.json",
+    "replayLogFile": "replay/testcase_replay_1x1.txt"
+}

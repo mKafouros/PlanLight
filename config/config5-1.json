@@ -1,0 +1,12 @@
+{
+    "interval": 1.0,
+    "seed": 0,
+    "dir": "./",
+    "saveReplay": true,
+    "roadnetFile": "dataset/hangzhou_1x1_tms-xy_18041607_1h/roadnet.json",
+    "flowFile": "dataset/hangzhou_1x1_tms-xy_18041607_1h/flow.json",
+    "rlTrafficLight": true,
+    "laneChange": false,
+    "roadnetLogFile": "replay/testcase_roadnet_1x1.json",
+    "replayLogFile": "replay/testcase_replay_1x1.txt"
+}

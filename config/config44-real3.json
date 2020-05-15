@@ -1,0 +1,12 @@
+{
+    "interval": 1.0,
+    "seed": 0,
+    "dir": "./",
+    "saveReplay": true,
+    "roadnetFile": "dataset/colight/Hangzhou/4_4/roadnet_4_4.json",
+    "flowFile": "dataset/colight/Hangzhou/4_4/anon_4_4_hangzhou_real_5734.json",
+    "rlTrafficLight": true,
+    "laneChange": false,
+    "roadnetLogFile": "replay/testcase_roadnet_4x4_co.json",
+    "replayLogFile": "replay/testcase_replay_4x4_co.txt"
+}
